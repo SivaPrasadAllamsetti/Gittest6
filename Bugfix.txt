@@ -1,1 +1,2 @@
 Bugfix1
+adding bugfix2to file bugfix
